@@ -6,4 +6,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intimatep&show_icons=true&theme=radical)
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=intimatep&theme=github-compact&hide_border=true&area=true" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intimatep&repo=demo)]()
