@@ -7,5 +7,6 @@
 <br>🐱 高级定点铲屎官
 <br>🎮 CSGO顶峰A+北美第一突破手
 <br>💁‍♂️ 欢迎技术大佬交流
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intimatep&show_icons=true&theme=radical)
+                                 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intimatep&show_icons=true&theme=radical)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
