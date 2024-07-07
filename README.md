@@ -1,3 +1,5 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intimatep&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Breadcrumbsintimatep&repo=ldapctl&show_owner=true&&theme=cobalt)](https://github.com/eryajf/ldapctl)
+
+关于我 🐱‍👤
+😺 年糕的专属铲屎官，完美世界主义追求者，CSGO手残玩家。
