@@ -1,5 +1,7 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intimatep&show_icons=true&theme=radical)
 
-关于我 🐱‍👤
-😺 年糕的专属铲屎官，完美世界主义追求者，CSGO手残玩家。
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=30&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intimatep&show_icons=true&theme=radical)
